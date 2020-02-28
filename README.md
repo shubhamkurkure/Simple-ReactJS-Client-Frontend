@@ -1,4 +1,4 @@
-# Mitchell International Software Development Engineering Internship Coding Challenge
+# Mitchell International Software Development Engineering Internship
 
 This is the react front end part for CRUDOperations. Basically this is just an example client application.
 
